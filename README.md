@@ -90,6 +90,7 @@ I was a competitive figure skater for over a decade with dreams of going to the 
 </details>
    
 ## Dashboard
+[Link to Power BI Dashboard](https://app.powerbi.com/groups/me/reports/30a4669b-0ecb-4f80-bc90-501d019f4273/ReportSection1a4469c7d399c62d2a90)
 
 ## Footnotes
 [^1]: [Hall of Fame | Olympic Figure Skating](https://usopm.org/hall-of-fame/figure-skating/#:~:text=Figure%20skating%20is%20one%20of,with%20women%20competitors%20until%201936.)
